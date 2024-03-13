@@ -1,0 +1,14 @@
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\bin\Debug\net6.0\Lab1.3.exe
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\bin\Debug\net6.0\Lab1.3.deps.json
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\bin\Debug\net6.0\Lab1.3.runtimeconfig.json
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\bin\Debug\net6.0\Lab1.3.dll
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\bin\Debug\net6.0\Lab1.3.pdb
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\Lab1.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\Lab1.3.AssemblyInfoInputs.cache
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\Lab1.3.AssemblyInfo.cs
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\Lab1.3.csproj.CoreCompileInputs.cache
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\Lab1.3.dll
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\refint\Lab1.3.dll
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\Lab1.3.pdb
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\Lab1.3.genruntimeconfig.cache
+D:\KPIstudent\Programming\2lab1\Lab1.3\Lab1.3\obj\Debug\net6.0\ref\Lab1.3.dll
